@@ -1,3 +1,5 @@
 function PrimerPaso(){
-    console.log("mandamos el primer paso");
+
+    console.log("Mandamos el paso 1");
+    
 } 
